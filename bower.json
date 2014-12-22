@@ -1,0 +1,20 @@
+{
+  "name": "TextRotator",
+  "version": "0.0.1",
+  "description": "Rotates Text",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "authors": [
+    "Salvador"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
